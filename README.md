@@ -5,6 +5,5 @@
 - 📫 How to reach me: camille.r779@gmail.com
 
 <!---
-CamilleRo/CamilleRo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+CamilleRo/CamilleRo ✨ ✨ 
 --->
